@@ -3,7 +3,7 @@
 #### mozingo
 It is a nice place where we can find **peace** and it is a **fishing spot**
 ****
-# Favourite spot
+# Activities done at the spot 
 1. Playing batminton
 2. Eating favourite food
 3. Doing meditation
