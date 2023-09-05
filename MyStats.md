@@ -10,4 +10,8 @@ The below table consists of four different type of sports which i recommend to p
 | basket ball | physical exercise | 4 |
 | foot ball | physical exercise | 2 |
 | hockey | helps to implement startegy | 4 |
- 
+ ****
+ # quotes given by scientists
+ > Every action has an opposite reaction *Isaac Newton*
+ > Quality is everyones responsibility *Issaac Asimov*
+
