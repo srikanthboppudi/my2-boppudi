@@ -6,4 +6,8 @@ I am from Ongole and I have done my undergrad in qis college of engineering and 
 The below table consists of four different type of sports which i recommend to play
 | name of sport | Reason why i recommend | Number of hours in a average week |
 | -- | -- | --: |
+| chess | develops logical thinking | 3 |
+| basket ball | physical exercise | 4 |
+| foot ball | physical exercise | 2 |
+| hockey | helps to implement startegy | 4 |
  
