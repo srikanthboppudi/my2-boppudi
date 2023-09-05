@@ -11,4 +11,4 @@ It is a nice place where we can find **peace** and it is a **fishing spot**
 * Chicken biryani
 * Egg rice
 ****
-![mypicture](https://github.com/srikanthboppudi/my2-boppudi/assets/137140835/078409fb-bd3d-4ac0-b5a2-13ec6ca30dd8)
+[link for MyStats page](https://github.com/srikanthboppudi/my2-boppudi/blob/f0ba9e6d805f6322745d667bf585112f525f18bb/MyStats.md)
