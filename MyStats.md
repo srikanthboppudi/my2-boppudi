@@ -12,6 +12,6 @@ The below table consists of four different type of sports which i recommend to p
 | hockey | helps to implement startegy | 4 |
  ****
  # quotes given by scientists
- > Every action has an opposite reaction *Isaac Newton*<br>
- > Quality is everyones responsibility *Issaac Asimov*
+ > Every action has an opposite reaction - *Isaac Newton*<br>
+ > Quality is everyones responsibility - *Issaac Asimov*
 
