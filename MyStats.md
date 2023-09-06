@@ -16,7 +16,7 @@ The below table consists of four different type of sports which i recommend to p
  > Quality is everyones responsibility - *Issaac Asimov*
 ****
 ## code fencing
-> html - Example Form Markup
+> The data filled is sent to directly an email address
 >>***[html form submit](https://stackoverflow.com/questions/8945751/html-form-submit)***
 ~~~
 <form id="myForm" action="#" method="post">
