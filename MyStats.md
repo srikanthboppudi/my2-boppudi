@@ -17,7 +17,7 @@ The below table consists of four different type of sports which i recommend to p
 ****
 ## code fencing
 > html - Example Form Markup
->>https://css-tricks.com/snippets/html/example-form-markup/
+>>***[html form submit](https://stackoverflow.com/questions/8945751/html-form-submit)***
 ~~~
 <form id="myForm" action="#" method="post">
 
@@ -61,4 +61,4 @@ The below table consists of four different type of sports which i recommend to p
 
 </form>
 ~~~
-***[Link for snippet source](https://css-tricks.com/snippets/html/)***
+***[Link for snippet source](https://css-tricks.com/snippets/html/example-form-markup/)***
